@@ -1,2 +1,3 @@
 # csv-diff
-Compare data in CSV files.
+
+Compara valores diferentes de uma coluna entre dois arquivos CSV.
